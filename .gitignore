@@ -1,0 +1,26 @@
+# Local configuration, accounts, and private data
+database.php
+.env
+.env.*
+!.env.example
+*.sql
+!database_schema.sql
+*.sqlite
+*.db
+
+# User-uploaded images (may contain copyrighted or personal content)
+/uploads/cars/*
+!/uploads/cars/.htaccess
+!/uploads/cars/.gitkeep
+
+# Local tooling, backups, and logs
+.vs/
+.vscode/
+*.zip
+*_backup.php
+*.bak
+*.log
+tmp/
+temp/
+.DS_Store
+Thumbs.db
