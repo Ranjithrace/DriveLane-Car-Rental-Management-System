@@ -25,6 +25,34 @@ Developed as **Computer Networks and Internet Technologies — Project 2** at Ka
 - Inspect booking activity logs and reporting dashboards.
 - Filter reports and export users, cars, bookings and booking activity as CSV.
 
+
+## Application Screenshots
+
+### Homepage
+![DriveLane Homepage](screenshots/01-homepage.png)
+
+### Customer Dashboard
+![Customer Dashboard](screenshots/02-customer-dashboard.png)
+
+### Rental Booking
+![Request a Rental](screenshots/03-booking.png)
+
+### Staff Fleet Management
+![Manage Cars](screenshots/04-manage-cars.png)
+
+### Staff Booking Management
+![Booking Management](screenshots/05-staff-bookings.png)
+
+### Rental Schedule
+![Rental Schedule](screenshots/06-rental-schedule.png)
+
+### Administrator Dashboard
+![Admin Dashboard](screenshots/07-admin-dashboard.png)
+
+### Administrator Reports and Statistics
+![Reports and Statistics](screenshots/08-admin-reports.png)
+
+
 ## Booking workflow
 
 `Pending → Approved → Collected → Returned`  
